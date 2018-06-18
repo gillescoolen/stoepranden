@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_jan"
+        app:showAsAction="never"
+        android:title="Jantje Beton" />
+    <item
+        android:id="@+id/navigation_nova"
+        app:showAsAction="never"
+        android:title="Novasports" />
+    <item
+        android:id="@+id/navigation_sport"
+        app:showAsAction="never"
+        android:title="Sport &amp; Co" />
+    <item
+        android:id="@+id/navigation_rules"
+        app:showAsAction="never"
+        android:title="Spelregels" />
+</menu>
