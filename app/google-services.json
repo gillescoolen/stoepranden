@@ -8,16 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:572585405983:android:c24d43551de293d8",
+        "mobilesdk_app_id": "1:572585405983:android:303e7eaa7397bdb0",
         "android_client_info": {
-          "package_name": "com.novasports.stoepranden"
+          "package_name": "nl.novasports.stoepranden"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "572585405983-hiqlpuvaprphe4g8nmqs6fm29jtnk5ko.apps.googleusercontent.com",
-          "client_type": 3
-        },
         {
           "client_id": "572585405983-hiqlpuvaprphe4g8nmqs6fm29jtnk5ko.apps.googleusercontent.com",
           "client_type": 3
@@ -29,15 +25,13 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572585405983-hiqlpuvaprphe4g8nmqs6fm29jtnk5ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
